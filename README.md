@@ -14,9 +14,6 @@ Currently exploring **advanced backend systems, DevOps, and intelligent apps**.
 - 🎯 Goal: Build products that people actually use
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;Backend+Focused;Always+Building)
-
----
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
