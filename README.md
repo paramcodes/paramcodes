@@ -21,11 +21,14 @@ Currently exploring **advanced backend systems, DevOps, and intelligent apps**.
 - Python
 - C++
 - Java
+- Solidity
+- Rust
 
 ### 🌐 Frontend
 - Next.js
 - React
 - Tailwind CSS
+- React Native
 
 ### ⚙️ Backend
 - Node.js
@@ -40,6 +43,7 @@ Currently exploring **advanced backend systems, DevOps, and intelligent apps**.
 ### 🛢️ Database
 - MongoDB
 - PostgreSQL
+- Redis
 
 ### ⚙️ DevOps & Tools
 - Docker (learning)
