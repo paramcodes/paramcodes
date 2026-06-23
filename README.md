@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paramveer Singh
 
-🚀 Full-Stack Developer | 🤖 AI Builder | ⚡ Backend Enthusiast  
+## $ Full-Stack | multi-agents | Blockchain  
 
 I build real-world applications focused on **AI, automation, and scalable systems**.  
 Currently exploring **advanced backend systems, DevOps, and intelligent apps**.
@@ -17,38 +17,22 @@ Currently exploring **advanced backend systems, DevOps, and intelligent apps**.
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript / TypeScript
-- Python
-- C++
-- Java
-- Solidity
-- Rust
+- JavaScript / TypeScript, Python, C++, Java, Solidity, Rust
 
 ### 🌐 Frontend
-- Next.js
-- React
-- Tailwind CSS
-- React Native
+- Next.js, React, Tailwind CSS, React Native
 
 ### ⚙️ Backend
-- Node.js
-- Express
-- FastAPI
+- Node.js, Express, FastAPI
 
 ### 🧠 AI / ML
-- OpenAI / Gemini APIs
-- LangChain
-- Vector Databases
+- OpenAI / Gemini APIs, LangChain, Vector Databases
 
 ### 🛢️ Database
-- MongoDB
-- PostgreSQL
-- Redis
+- MongoDB, PostgreSQL, Redis
 
 ### ⚙️ DevOps & Tools
-- Docker (learning)
-- Git & GitHub
-- Linux (Fedora ❤️)
+- Docker (learning), Git & GitHub, Linux (Fedora ❤️)
 
 ---
 
