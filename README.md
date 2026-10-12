@@ -3,8 +3,6 @@
 <p align="center">
   <a href="https://paramveer.me"><img src="https://img.shields.io/badge/portfolio-paramveer.me-black?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/paramveer-singh-2b619a296/"><img src="https://img.shields.io/badge/LinkedIn-Paramveer%20Singh-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://paramveer.hashnode.dev/"><img src="https://img.shields.io/badge/blog-hashnode-2962FF?style=flat-square&logo=hashnode" /></a>
-  <a href="https://x.com/Your_PARAM"><img src="https://img.shields.io/badge/twitter-@Your__PARAM-1DA1F2?style=flat-square&logo=x" /></a>
 </p>
 
 ---
