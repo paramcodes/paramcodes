@@ -97,23 +97,3 @@ $ ls -la ~/projects/featured --sort=recent
 [Databases & Caching]  PostgreSQL  •  Redis  •  SQLite (WAL)  •  Neo4j
 [Infra & DevOps]       Linux  •  Docker  •  Terraform  •  AWS (VPC/Private Subnets)  •  GitHub Actions
 ```
-
----
-
-### 📌 Hard-Won Engineering Lessons
-
-- **Validate schemas, not just prompts**: LLM evaluators and critic judges hallucinate confidently when template variables or context slots are empty or malformed.
-- **Target logic patterns, not syntax**: Critic agents need rules targeted at structural bug patterns rather than exact phrasing, otherwise paraphrased bugs slip right through.
-- **Hierarchical retrieval beats flat chunking**: For multi-page technical documents, recursive clustering (RAPTOR) preserves cross-document context that standard RAG chunks miss completely.
-
----
-
-<div align="center">
-
-```text
-Let's build systems that matter.
-```
-
-<sub>Open to systems engineering, autonomous agent infrastructure, and low-level tooling roles.</sub>
-
-</div>
