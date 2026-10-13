@@ -12,11 +12,7 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <a href="https://paramveer.me"><img src="https://img.shields.io/badge/Portfolio-paramveer.me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/paramveer-singh-2b619a296/"><img src="https://img.shields.io/badge/LinkedIn-Paramveer_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sparamveer1001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 </div>
 
@@ -97,3 +93,10 @@ $ ls -la ~/projects/featured --sort=recent
 [Databases & Caching]  PostgreSQL  •  Redis  •  SQLite (WAL)  •  Neo4j
 [Infra & DevOps]       Linux  •  Docker  •  Terraform  •  AWS (VPC/Private Subnets)  •  GitHub Actions
 ```
+---
+
+<p align="center">
+  <a href="https://paramveer.me"><img src="https://img.shields.io/badge/Portfolio-paramveer.me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paramveer-singh-2b619a296/"><img src="https://img.shields.io/badge/LinkedIn-Paramveer_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sparamveer1001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
